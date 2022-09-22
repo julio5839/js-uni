@@ -1,0 +1,5 @@
+.idea/ # Jeśli korzystasz z IntelliJ
+node_modules/
+es5out/
+log/
+.yarn/

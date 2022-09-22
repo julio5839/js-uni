@@ -1,0 +1,15 @@
+{
+  "name": "lab08",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "eslint": "^8.15.0",
+    "nodemon": "^2.0.16"
+  },
+  "scripts": {
+    "zad1": "nodemon src/objects.js",
+    "zad2": "nodemon src/creatingObjects.js",
+    "zad3": "nodemon src/reduce.js"
+  }
+}

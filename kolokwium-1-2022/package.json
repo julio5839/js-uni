@@ -1,0 +1,19 @@
+{
+  "name": "kolos",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "eslint": "^8.15.0",
+    "nodemon": "^2.0.16"
+  },
+  "scripts": {
+    "zad1": "nodemon src/zad01.js",
+    "zad2": "nodemon src/zad02.js",
+    "zad3": "nodemon src/zad03.js",
+    "zad4": "nodemon src/zad04.js"
+  },
+  "dependencies": {
+    "lodash": "^4.17.21"
+  }
+}

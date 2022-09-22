@@ -1,0 +1,38 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.start {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  -ms-flex-pack: distribute;
+      justify-content: space-around;
+  padding: 10px;
+}
+
+.start button {
+  border: none;
+  border-radius: 25%;
+  padding: 1.10rem;
+  background-color: yellowgreen;
+}
+
+.start button:hover {
+  background-color: #7ba428;
+}
+
+.start button:active {
+  background-color: #5c7b1e;
+}
+
+#counter {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+}
+/*# sourceMappingURL=styles.css.map */

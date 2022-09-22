@@ -1,0 +1,15 @@
+{
+  "name": "test",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "eslint": "^8.15.0",
+    "nodemon": "^2.0.16"
+  },
+  "scripts": {
+    "zad1": "node src/zad1.js",
+    "zad2": "node src/zad2.js",
+    "zad3": "node src/zad3.js"
+  }
+}
